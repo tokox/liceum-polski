@@ -1,5 +1,7 @@
 # Język Polski
 
+[README](README.md)
+
 ## Pieśni Jana Kochanowskiego
 
 ### Utwory i opracowania
