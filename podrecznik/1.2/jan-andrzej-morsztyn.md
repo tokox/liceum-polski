@@ -3,19 +3,19 @@
 ## *Do Trupa*
 
 ```
-Leżysz zabity i jam też zabity,\
-Ty — strzałą śmierci, ja — strzałą miłości,\
-Ty krwie, ja w sobie nie mam rumianości,\
-Ty jawne świece, ja mam płomień skryty,\
-Tyś na twarz suknem żałobnym nakryty,\
-Jam zawarł zmysły w okropnej ciemności,\
-Ty masz związane ręce, ja wolności\
-Zbywszy mam rozum łańcuchem powity.\
-Ty jednak milczysz, a mój język kwili,\
-Ty nic nie czujesz, ja cierpię ból srodze,\
-Tyś jak lód, a jam w piekielnej śreżodze.\
-Ty się rozsypiesz prochem w małej chwili,\
-Ja się nie mogę, stawszy się żywiołem\
+Leżysz zabity i jam też zabity,
+Ty — strzałą śmierci, ja — strzałą miłości,
+Ty krwie, ja w sobie nie mam rumianości,
+Ty jawne świece, ja mam płomień skryty,
+Tyś na twarz suknem żałobnym nakryty,
+Jam zawarł zmysły w okropnej ciemności,
+Ty masz związane ręce, ja wolności
+Zbywszy mam rozum łańcuchem powity.
+Ty jednak milczysz, a mój język kwili,
+Ty nic nie czujesz, ja cierpię ból srodze,
+Tyś jak lód, a jam w piekielnej śreżodze.
+Ty się rozsypiesz prochem w małej chwili,
+Ja się nie mogę, stawszy się żywiołem
 Wiecznym mych ogniów, rozsypać popiołem.
 ```
 
@@ -48,13 +48,13 @@ Najbardziej zaskaczającym zabiegiem było porównanie jakże pięknego uczucia 
 ## *O swej pannie*
 
 ```
-Biały i polerowany jest marmur z Karary,\
-Białe mleko, przysłane w sitowiu z koszary,\
-Biały łabędź i białym okrywa się piórem,\
-Biała perła nie częstym zażywana sznurem,\
-Biały śnieg świeżo padły nogą niedeptany,\
-Biały kwiat liliowy na świeżo zerwany;\
-Ale bielsza mej panny płeć twarzy i szyje\
+Biały i polerowany jest marmur z Karary,
+Białe mleko, przysłane w sitowiu z koszary,
+Biały łabędź i białym okrywa się piórem,
+Biała perła nie częstym zażywana sznurem,
+Biały śnieg świeżo padły nogą niedeptany,
+Biały kwiat liliowy na świeżo zerwany;
+Ale bielsza mej panny płeć twarzy i szyje
 Niż marmur, mleko, łabędź, perła, śnieg, lilije.
 ```
 
@@ -73,13 +73,13 @@ Na rytm wypowiedzi wpływają rymy dokładne (Karrary- koszary), anafory, a tak�
 ## *Niestatek*
 
 ```
-Oczy są ogień, czoło jest zwierciadłem,\
-Włos złotem, perłą ząb, płeć mlekiem zsiadłem,\
-Usta koralem, purpurą jagody,\
-Póki mi, panno, dotrzymujesz zgody.\
-Jak się zwadzimy — jagody są trądem,\
-Usta czeluścią, płeć blejwasem bladem,\
-Ząb szkapią kością, włosy pajęczyną,\
+Oczy są ogień, czoło jest zwierciadłem,
+Włos złotem, perłą ząb, płeć mlekiem zsiadłem,
+Usta koralem, purpurą jagody,
+Póki mi, panno, dotrzymujesz zgody.
+Jak się zwadzimy — jagody są trądem,
+Usta czeluścią, płeć blejwasem bladem,
+Ząb szkapią kością, włosy pajęczyną,
 Czoło maglownią, a oczy perzyną.
 ```
 
